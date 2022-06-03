@@ -1,0 +1,1 @@
+./push_helper.sh ./gitaccesstoken.txt ./repoinfo.txt ./comment.txt
